@@ -2,7 +2,7 @@
   Hi 🖐, I am Aayush Singh
 </h1>
 
-<h3 align="center">A passionate software developer from Indian who loves to learn about new technologies and build amazing stuff. </h3>
+<h3 align="center">A passionate software developer from India who loves to learn about new technologies and build amazing stuff. </h3>
 
 <br/>
 
